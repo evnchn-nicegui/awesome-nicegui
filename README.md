@@ -11,6 +11,8 @@
 - [Articles & Tutorials](#articles--tutorials)
 - [Talks & Podcasts](#talks--podcasts)
 - [Tools & Extensions](#tools--extensions)
+- [Component Libraries & Extensions](#component-libraries--extensions)
+- [Starters & Templates](#starters--templates)
 - [Projects & Apps](#projects--apps)
 - [Robotics & Hardware](#robotics--hardware)
 - [Research & Academia](#research--academia)
@@ -33,6 +35,7 @@
 - [Building Integrated Web Applications with FastAPI and NiceGUI](https://jaehyeon.me/blog/2025-11-19-fastapi-nicegui-template/) — A from-scratch RBAC + CRUD template.
 - [How to Deploy NiceGUI Apps with Docker on Sliplane](https://dev.to/code42cate/how-to-deploy-nicegui-apps-with-docker-on-sliplane-38c8) — Practical containerized-deploy walkthrough.
 - [NiceGUIを使ったPython GUIアプリの作成と配布](https://qiita.com/masushin/items/018224b52e89f463776c) 🇯🇵 — Packaging & distributing a NiceGUI app to an executable (rye + PyInstaller gotchas).
+- [NiceGUI 中文版本文档 (Chinese reference docs)](https://github.com/syejing/nicegui-reference-cn) 🇨🇳 — A community Chinese-language translation of the NiceGUI documentation (⭐ 120+).
 
 ## Talks & Podcasts
 
@@ -45,6 +48,23 @@
 
 - [NiceGUI for VS Code](https://marketplace.visualstudio.com/items?itemName=DaelonSuzuka.nicegui) — Editor language support for the NiceGUI framework, by Daelon Suzuka ([source](https://github.com/DaelonSuzuka/nicegui-vscode)).
 - [ngws](https://github.com/BlankAdventure/ngws) — A NiceGUI ↔ WebSerial bridge: a remote server reaches the browser client's own USB serial ports.
+- [NiceVibes](https://github.com/Alyxion/nice-vibes) — Guidance and rules for teaching AI agents to build NiceGUI applications well.
+
+## Component Libraries & Extensions
+
+- [ex4nicegui](https://github.com/CrystalWindSnake/ex4nicegui) — Extension library adding reactive / data-responsive components on top of NiceGUI (⭐ 200+).
+- [nicegui-highcharts](https://github.com/zauberzeug/nicegui-highcharts) — Official Highcharts integration element, by Zauberzeug.
+- [nicegui-toolkit](https://github.com/CrystalWindSnake/nicegui-toolkit) — Helper toolkit for NiceGUI development.
+- [nicegui-tabulator](https://github.com/CrystalWindSnake/nicegui-tabulator) — Interactive tables for NiceGUI via the Tabulator library.
+- [nicegui_widgets](https://github.com/WolfgangFahl/nicegui_widgets) — A collection of reusable NiceGUI widgets.
+- [nicegui-react](https://github.com/puntorigen/nicegui-react) — Embed React components inside NiceGUI apps.
+- [nicegui-codemirror](https://github.com/volltin/nicegui-codemirror) — A CodeMirror-based code editor element for NiceGUI.
+
+## Starters & Templates
+
+- [nicegui-component-based](https://github.com/frycodelab/nicegui-component-based) — A modular, component-structured NiceGUI project template (⭐ 170+).
+- [nicegui-fastapi-template](https://github.com/jaehyeon-kim/nicegui-fastapi-template) — Full-stack NiceGUI + FastAPI starter template.
+- [nicegui-tailwind-layout](https://github.com/EasyDevv/nicegui-tailwind-layout) — Responsive layout templates for NiceGUI apps.
 
 ## Projects & Apps
 
@@ -83,9 +103,8 @@ For honest context — NiceGUI is most often discovered by people comparing Pyth
 
 This is a seed. Known gaps a human (or future PR) should close:
 
-- More **non-English resources** — there's a thriving Japanese (Qiita/Zenn) community and a Chinese one (Bilibili, [nicegui.cn](https://nicegui.cn)) under-represented here.
-- **Component libraries / plugins** that extend NiceGUI.
-- **Production case studies** and company adoptions.
+- More **non-English resources** — Japanese (Qiita/Zenn) and Chinese (Bilibili, [nicegui.cn](https://nicegui.cn)) communities are active and still under-represented beyond the few entries above.
+- **Production case studies** and company adoptions (e.g. Lotum GmbH presented internal tooling built on NiceGUI at PyData Berlin — more such write-ups welcome).
 - A pass to drop anything stale, low-quality, or no longer maintained.
 
 ## Contributing
