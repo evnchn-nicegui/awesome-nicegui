@@ -43,6 +43,7 @@
 
 ## Tools & Extensions
 
+- [NiceGUI for VS Code](https://marketplace.visualstudio.com/items?itemName=DaelonSuzuka.nicegui) — Editor language support for the NiceGUI framework, by Daelon Suzuka ([source](https://github.com/DaelonSuzuka/nicegui-vscode)).
 - [ngws](https://github.com/BlankAdventure/ngws) — A NiceGUI ↔ WebSerial bridge: a remote server reaches the browser client's own USB serial ports.
 
 ## Projects & Apps
@@ -82,7 +83,6 @@ For honest context — NiceGUI is most often discovered by people comparing Pyth
 
 This is a seed. Known gaps a human (or future PR) should close:
 
-- **An unofficial NiceGUI VS Code extension** reportedly exists (mentioned in an HN comment — "search 'nicegui' in the marketplace"), but a verified Marketplace link is needed before listing it.
 - More **non-English resources** — there's a thriving Japanese (Qiita/Zenn) community and a Chinese one (Bilibili, [nicegui.cn](https://nicegui.cn)) under-represented here.
 - **Component libraries / plugins** that extend NiceGUI.
 - **Production case studies** and company adoptions.
