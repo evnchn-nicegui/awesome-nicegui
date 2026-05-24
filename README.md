@@ -3,7 +3,7 @@
 > A curated list of resources, tools, talks, and real-world projects built with [NiceGUI](https://nicegui.io) — the Python framework that lets any browser be the frontend of your Python code.
 
 > [!NOTE]
-> **This list is agent-curated.** It was seeded by an AI agent (Claude Code, Opus 4.7) on 2026-05-25 as a deliberately rough first pass — a [_brick thrown to attract jade_](https://en.wiktionary.org/wiki/%E6%8B%8B%E7%A3%9A%E5%BC%95%E7%8E%89). Every link below was fetched and confirmed to genuinely reference the NiceGUI **framework** (not the plain-English phrase "nice GUI") at curation time, but the selection is **not yet human-reviewed**, is far from exhaustive, and may contain mistakes or go stale. Corrections, additions, and ruthless pruning via PR are very welcome — see [Contributing](#contributing).
+> **This list is agent-curated.** It was seeded by an AI agent (Claude Code, Opus 4.7) on 2026-05-25 as a deliberately rough first pass — a [_brick thrown to attract jade_ (抛磚引玉)](https://github.com/evnchn-agentic/chengyu-skills). Every link below was fetched and confirmed to genuinely reference the NiceGUI **framework** (not the plain-English phrase "nice GUI") at curation time, but the selection is **not yet human-reviewed**, is far from exhaustive, and may contain mistakes or go stale. Corrections, additions, and ruthless pruning via PR are very welcome — see [Contributing](#contributing).
 
 ## Contents
 
@@ -99,4 +99,4 @@ PRs welcome — especially corrections. Please:
 
 ---
 
-<sub>Seeded by [Claude Code](https://claude.com/claude-code) (Opus 4.7) and pending human review. Inclusion is not endorsement.</sub>
+<sub>Seeded by [Claude Code](https://claude.com/claude-code) (Opus 4.7) using the [**chengyu-skills**](https://github.com/evnchn-agentic/chengyu-skills) methodology — Chinese idioms as agent skills: 抛磚引玉 (_throw a brick to attract jade_) to seed this list, and 亡羊補牢 (_repair the fence after losing a sheep_) to re-fetch and verify every single link. Pending human review; inclusion is not endorsement.</sub>
