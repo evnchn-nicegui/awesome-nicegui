@@ -49,6 +49,7 @@
 - [NiceGUI for VS Code](https://marketplace.visualstudio.com/items?itemName=DaelonSuzuka.nicegui) — Editor language support for the NiceGUI framework, by Daelon Suzuka ([source](https://github.com/DaelonSuzuka/nicegui-vscode)).
 - [ngws](https://github.com/BlankAdventure/ngws) — A NiceGUI ↔ WebSerial bridge: a remote server reaches the browser client's own USB serial ports.
 - [NiceVibes](https://github.com/Alyxion/nice-vibes) — Guidance and rules for teaching AI agents to build NiceGUI applications well.
+- [OpenRun](https://github.com/openrundev/openrun) — Declaratively deploy NiceGUI apps on a single node or Kubernetes; handles container builds, zero-downtime rolling deploys, OIDC/SAML access control with RBAC, and scale-to-zero.
 
 ## Component Libraries & Extensions
 
