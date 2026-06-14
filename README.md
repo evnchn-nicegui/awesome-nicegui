@@ -2,8 +2,7 @@
 
 > A curated list of resources, tools, talks, and real-world projects built with [NiceGUI](https://nicegui.io) — the Python framework that lets any browser be the frontend of your Python code.
 
-> [!NOTE]
-> **This list is agent-curated.** It was seeded by an AI agent (Claude Code, Opus 4.7) on 2026-05-25. Every link below was fetched and confirmed to genuinely reference the NiceGUI **framework** (not the plain-English phrase "nice GUI") at curation time, but the list is far from exhaustive and entries may go stale. Corrections, additions, and ruthless pruning via PR are very welcome — see [Contributing](#contributing).
+> <sub>Seeded by an automated pass; every link was verified to reference the NiceGUI framework at curation time. Far from exhaustive — corrections, additions, and pruning via PR welcome (see [Contributing](#contributing)).</sub>
 
 ## Contents
 
