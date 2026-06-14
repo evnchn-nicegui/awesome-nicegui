@@ -21,7 +21,7 @@
 
 ## Official
 
-- [NiceGUI](https://github.com/zauberzeug/nicegui) - The framework itself, by [Zauberzeug](https://zauberzeug.com) (⭐ 15.8k).
+- [NiceGUI](https://github.com/zauberzeug/nicegui) - The framework itself, by [Zauberzeug](https://zauberzeug.com) (⭐ 15.9k).
 - [Documentation & live examples](https://nicegui.io/documentation) - Official docs, runnable in the browser.
 - [PyPI package](https://pypi.org/project/nicegui/) - `pip install nicegui`.
 - [Discord](https://discord.gg/TEpFeAaF4f) - Community chat.
@@ -34,6 +34,11 @@
 - [How to Deploy NiceGUI Apps with Docker on Sliplane](https://dev.to/code42cate/how-to-deploy-nicegui-apps-with-docker-on-sliplane-38c8) - Practical containerized-deploy walkthrough.
 - [NiceGUIを使ったPython GUIアプリの作成と配布](https://qiita.com/masushin/items/018224b52e89f463776c) - 🇯🇵 Packaging & distributing a NiceGUI app to an executable (rye + PyInstaller gotchas).
 - [NiceGUI 中文版本文档 (Chinese reference docs)](https://github.com/syejing/nicegui-reference-cn) - 🇨🇳 A community Chinese-language translation of the NiceGUI documentation (⭐ 120+).
+- [nicegui.cn 中文社区](https://nicegui.cn/) - 🇨🇳 A community Chinese-language docs and learning portal for the NiceGUI framework.
+- [NiceGUI 中文入门教程 (Chinese beginner's guide)](https://github.com/python-and-novella/chinese_guide_of_nicegui_for_beginner) - 🇨🇳 A from-zero Chinese tutorial covering setup, controls, layout, and styling (⭐ 40+).
+- [Pythonだけで本格Web UIを書く時代 ─ NiceGUI 3.0のススメ](https://note.com/shibats/n/n0bf209c44140) - 🇯🇵 An overview of NiceGUI 3.0's Vue-3 rewrite, routing, and theming ("Python で書く Vue.js").
+- [Streamlit から脱却したい：NiceGUI と Reflex を実装比較](https://zenn.dev/kenseinosaka/articles/33451331179c89) - 🇯🇵 Implements the same app in NiceGUI vs Reflex as Streamlit alternatives.
+- [NiceGUI と OpenCV を組み合わせたい](https://qiita.com/Kazuhito/items/76d39895b5f96a3f7314) - 🇯🇵 Real-time OpenCV webcam streaming into a NiceGUI interactive image.
 
 ## Talks & Podcasts
 
@@ -48,6 +53,8 @@
 - [ngws](https://github.com/BlankAdventure/ngws) - A NiceGUI ↔ WebSerial bridge: a remote server reaches the browser client's own USB serial ports.
 - [NiceVibes](https://github.com/Alyxion/nice-vibes) - Guidance and rules for teaching AI agents to build NiceGUI applications well.
 - [OpenRun](https://github.com/openrundev/openrun) - Declaratively deploy NiceGUI apps on a single node or Kubernetes; handles container builds, zero-downtime rolling deploys, OIDC/SAML access control with RBAC, and scale-to-zero.
+- [EasyOIDC](https://github.com/jpmanson/EasyOIDC) - OpenID Connect (OIDC) authentication with a dedicated NiceGUI integration (`pip install easyoidc[nicegui]`).
+- [nicegui-command-palette](https://github.com/DaelonSuzuka/nicegui-command-palette) - A VS Code/Sublime-style command palette you can embed in NiceGUI apps, by Daelon Suzuka.
 
 ## Component Libraries & Extensions
 
@@ -58,12 +65,15 @@
 - [nicegui_widgets](https://github.com/WolfgangFahl/nicegui_widgets) - A collection of reusable NiceGUI widgets.
 - [nicegui-react](https://github.com/puntorigen/nicegui-react) - Embed React components inside NiceGUI apps.
 - [nicegui-codemirror](https://github.com/volltin/nicegui-codemirror) - A CodeMirror-based code editor element for NiceGUI.
+- [nicegui-pdf](https://github.com/peerdavid/nicegui-pdf) - A pip-installable PDF viewer component (pdf.js) with two-way page and selected-text binding.
+- [nodegraph-editor-nicegui](https://github.com/123swk123/nodegraph-editor-nicegui) - A Vue-flow-based node-graph editor component for NiceGUI (⭐ 25).
 
 ## Starters & Templates
 
 - [nicegui-component-based](https://github.com/frycodelab/nicegui-component-based) - A modular, component-structured NiceGUI project template (⭐ 170+).
 - [nicegui-fastapi-template](https://github.com/jaehyeon-kim/nicegui-fastapi-template) - Full-stack NiceGUI + FastAPI starter template.
 - [nicegui-tailwind-layout](https://github.com/EasyDevv/nicegui-tailwind-layout) - Responsive layout templates for NiceGUI apps.
+- [nicegui-template](https://github.com/zauberzeug/nicegui-template) - The official Copier scaffold for a basic NiceGUI project, by Zauberzeug.
 
 ## Projects & Apps
 
@@ -71,6 +81,11 @@
 - [WireGUI](https://github.com/bartei/wiregui) - A Firezone-inspired WireGuard VPN server with a web UI (⭐ 50+).
 - [supremebot](https://github.com/saccofrancesco/supremebot) - Cross-platform Supreme streetwear drop sniper (NiceGUI + Playwright).
 - [kurup](https://github.com/davistdaniel/kurup) - Database-free local markdown note-taking app with live preview.
+- [fastapi-forge](https://github.com/mslaursen/fastapi-forge) - A visual FastAPI project generator whose project designer is built with NiceGUI (⭐ 160+).
+- [ReNovel-AI](https://github.com/BiranSama/ReNovel-AI) - 🇨🇳 A local AI novel-editing workbench (RAG long-term memory, card-based streaming editor) with a NiceGUI UI (⭐ 140+).
+- [desto](https://github.com/kalfasyan/desto) - A web dashboard and CLI to manage Python and shell scripts running in tmux sessions (⭐ 100+).
+- [WLEDVideoSync](https://github.com/zak-45/WLEDVideoSync) - Casts video, images, and camera feeds to WLED/E1.31/ArtNet/DDP 2D LED matrices via a NiceGUI interface (⭐ 60+).
+- [Aignostics Launchpad](https://github.com/aignostics/python-sdk) - A computational-pathology company's desktop app (`nicegui[native]`) for its platform, shipped alongside its Python SDK.
 
 ## Robotics & Hardware
 
@@ -100,7 +115,7 @@ For honest context — NiceGUI is most often discovered by people comparing Pyth
 
 ## Help Wanted
 
-This is a seed. Known gaps a human (or future PR) should close: more non-English resources (the Japanese Qiita/Zenn and Chinese Bilibili / [nicegui.cn](https://nicegui.cn) communities are active and under-represented beyond the few entries above), production case studies and company adoptions (e.g. Lotum GmbH presented internal tooling built on NiceGUI at PyData Berlin — more such write-ups welcome), and a recurring pass to drop anything stale, low-quality, or no longer maintained.
+This is a seed. Known gaps a human (or future PR) should close: more non-English video coverage (the Chinese Bilibili tutorial communities are active but hard to verify automatically, so they are still under-represented here), more production case studies and company adoptions, and a recurring pass to drop anything stale, low-quality, or no longer maintained.
 
 ## Contributing
 
