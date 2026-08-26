@@ -86,6 +86,7 @@
 - [desto](https://github.com/kalfasyan/desto) - A web dashboard and CLI to manage Python and shell scripts running in tmux sessions (⭐ 100+).
 - [WLEDVideoSync](https://github.com/zak-45/WLEDVideoSync) - Casts video, images, and camera feeds to WLED/E1.31/ArtNet/DDP 2D LED matrices via a NiceGUI interface (⭐ 60+).
 - [Aignostics Launchpad](https://github.com/aignostics/python-sdk) - A computational-pathology company's desktop app (`nicegui[native]`) for its platform, shipped alongside its Python SDK.
+- [DrawMode](https://modebit.ai) - A real-time collaborative diagramming workbench for C4, UML, sequence, state, and ER models, with an AI assistant that edits the underlying model rather than the pixels; NiceGUI end-to-end, also shipped as an Electron [desktop app](https://github.com/ModeBit-AI/drawmode-releases).
 
 ## Robotics & Hardware
 
